@@ -1,7 +1,7 @@
 // METAMASK CONNECTION
 const TIMEOUT = 1000;
 const COLLECTION_NAME = 'Townskaters';
-let editions = [];
+let editions = [0xD5234b3f9db4bdE10780133AE56E5c833B1E3847];
 let dots = 1;
 
 window.addEventListener('DOMContentLoaded', () => {
